@@ -2,7 +2,7 @@
 
 HMT editing work by Trinity University teams in 2021-2022.
 
-Initial assignment:  folio 62 verso in the Venetus B manuscript, beginning with *Iliad* book 5.
+Initial assignment:  folio 63 recto in the Venetus B manuscript, beginning with *Iliad* book 5.
 
 - link to Image Citation tool  for [62 verso](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_62v_63r).
 
