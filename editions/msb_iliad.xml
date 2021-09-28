@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor>ADD YOUR NAME</editor>
+     
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="5">
+        <l n="17">EDIT TEXT FOR ILIAD 5.17 HERE</l>
+        <l n="18">EDIT TEXT FOR ILIAD 5.18 HERE</l>
+      </div>
+    </body>
+  </text>
+</TEI>

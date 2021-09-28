@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Scholia to Venetus B</title>
+        <editor>ADD YOUR NAME HERE</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Transcribed from Venetus B MS</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <group n="5">
+      <text n="msB">
+        <body>
+          <div n="62v_2" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="2">First scholion on Iliad 5 is numbered β </num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:5.1@ἐνθ'</p>
+            </div>
+            <div n="comment">
+              <p>EDIT TEXT OF SCHOLION 2 HERE ⁑
+              </p>
+            </div>
+          </div>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>
