@@ -5,7 +5,10 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>ADD YOUR NAME</editor>
+        <editor>Declan Hoch</editor>
+        <editor>Meg McDonald</editor>
+        <editor>William Turner</editor>
+        <editor>Victoria Ydens</editor>
      
       </titleStmt>
       <publicationStmt>
@@ -19,8 +22,15 @@
   <text>
     <body>
       <div n="5">
-        <l n="17">EDIT TEXT FOR ILIAD 5.17 HERE</l>
-        <l n="18">EDIT TEXT FOR ILIAD 5.18 HERE</l>
+        <l n="17">ἐγχεος, οὐδ'ἔβαλ'αὐτόν: ὄ δ'ὕστερος ὄρνυτο χαλκῷ</l>
+        <l n="18"><persName n="urn:cite2:hmt:pers.v1:pers215">Τυδείδης</persName>: τοῦ δ'οὐχ ἅλιον βέλος ἔκφυγε χειρὸς,</l>
+        <l n="19">ἀλλ'ἔβαλε στῆθος μεταμάζιον: ὦσε δ'αφ'ἵππων.</l>
+        <l n="20">ἰδαῖος δ'ἀπόρουσε λιπὼν περικαλλέα δίφρον:</l>
+        <l n="21">οὐδ'ἔτλη περιβῆναι ἀδελφειοῦ κταμένοιο:</l>
+        <l n="22">οὐδὲ γὰρ οὐδέ κεν αὐτὸς ὑπέκφυγε κῆρα μέλαινον:</l>
+        <l n="23">ἀλλ'<persName n="urn:cite2:hmt:pers.v1:pers192">Ἥφαιστος</persName> ἔρυτο σάωσε δὲ νυκτὶ καλύψας</l>
+        <l n="24">ὥς δή οἱ μὴ πάγχυ γέρων ἀκαχήμενος εἴη</l>
+        <l n="25">ἵππους δ'ἐξελάσας μεγαθύμου <persName n="urn:cite2:hmt:pers.v1:pers215">Τυδέος υἱὸς</persName>.</l>
       </div>
     </body>
   </text>
